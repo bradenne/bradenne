@@ -63,4 +63,4 @@ $ git log --format="%ad %s" --date=year bertrand
 2008 init(master): ingénierie du logiciel libre, Université du Littoral Côte d'Opale
 ```
 
-👉 **[Me contacter sur Malt](https://www.malt.fr/profile/bradenne)** · 👉 **[Me contacter sur LinkedIn](https://www.linkedin.com/in/bradenne/)**
+👉 **[Me contacter sur LinkedIn](https://www.linkedin.com/in/bradenne/)** · 👉 **[Me contacter sur Malt](https://www.malt.fr/profile/bradenne)**
